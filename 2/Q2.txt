@@ -1,0 +1,10 @@
+1)      Implement a menu driven program for Transposition (Columnar) Cipher with following functions.
+
+Encrypt given plain text.
+Decrypt given cipher text.
+Note: Ask user to input a word as a key.
+
+2)      Implement a menu driven program for Vigenère Cipher with following functions.
+
+Encrypt given plain text.
+Decrypt given cipher text.

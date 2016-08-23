@@ -1,0 +1,7 @@
+Implement a menu driven program for Ceaser Cipher with following functions.
+
+Encrypt given plain text.
+Decrypt given cipher text.
+Find encryption key using brute force attack.
+Find encryption key using frequency analysis attack.
+Note: Consider file as an input in program. The program should work for large and variable length input text.
